@@ -3,7 +3,6 @@ Barcode,MOQ,Stock,Price,Brand,Product,PriceRaw,TargetPrice,OriginalPrice,Cost,Mi
 8809782555508,24,18000,7.51,Beauty of Joseon,Relief Sun : Rice + Probiotics 50ml,7.15,6.2,7.87,7.15,7.5075,10.01,6.2,7.5075,0.05
 8809525246014,24,18000,0.8,Beauty of Joseon,(1EA) Centella Asiatica Calming Mask 25ml,0.76,0.71,0.84,0.76,0.798,1.064,0.71,0.798,0.05
 8809525249565,24,18000,9.7,Beauty of Joseon,Dynasty Cream 50ml,9.24,8.16,10.16,9.24,9.702,12.936,8.16,9.702,0.05
-8809657114960,24,0,9.69,Beauty of Joseon,Glow Serum : Propolis+Niacinamide 30ml,6.92,0.0,7.61,6.92,7.266,9.688,9.688,9.688,0.4
 8809968130130,24,18000,8.06,Beauty of Joseon,Ginseng Cleansing Oil 210ml,7.68,6.78,8.45,7.68,8.064,10.752,6.78,8.064,0.05
 8809968130277,24,216,7.51,Beauty of Joseon,Relief Sun Aqua-fresh : Rice + B5 50ml,7.15,6.23,7.87,7.15,7.5075,10.01,6.23,7.5075,0.05
 8800256118984,24,18000,8.93,Medicube,COLLAGEN NIGHT WRAPPING MASK 75ml,8.5,8.7,9.35,8.5,8.925,11.9,8.7,8.925,0.05
@@ -390,9 +389,10 @@ Barcode,MOQ,Stock,Price,Brand,Product,PriceRaw,TargetPrice,OriginalPrice,Cost,Mi
 8809481762351,24,0,6.36,Heimish,(EU) Moringa Ceramide BB Cream SPF 30 PA++ 29 Dark Olive,4.54,0.0,4.99,4.54,4.767,6.356,6.356,6.356,0.4
 8809481762146,24,235,6.36,Heimish,(EU) Moringa Ceramide BB Cream SPF 30 PA++ 31 Deep,4.54,6.36,4.99,4.54,4.767,6.356,6.36,6.356,0.4
 8806173458448,24,372,5.29,Nature Republic,(EU) Perfume De Nature Body Lotion_Allday Lily 345ml,3.78,5.29,4.16,3.78,3.969,5.292,5.29,5.29,0.3995
+8806173457519,24,372,5.29,Nature Republic,(EU) Perfume De Nature Body Lotion_Evening Lavender 345ml,3.78,5.29,4.16,3.78,3.969,5.292,5.29,5.29,0.3995
 8809913830825,24,251,7.89,Skin1004,Madagascar Centella Toning Toner 210ml,7.51,7.08,8.26,7.51,7.8855,10.514,7.08,7.8855,0.05
 8809913831143,24,984,2.11,Skin1004,Spot Cover Patch,2.01,1.96,2.21,2.01,2.1105,2.814,1.96,2.1105,0.05
 8809913831303,24,0,3.68,Skin1004,(EU) Madagascar Centella Soothing Cream 30ml,2.63,0.0,2.89,2.63,2.7615,3.682,3.682,3.682,0.4
 8809913831099,24,0,10.39,Skin1004,(EU) Madagascar Centella Hyalu-Cica Blue Serum 50ml,7.42,0.0,8.16,7.42,7.791,10.388,10.388,10.388,0.4
-8809913830818,24,2344,6.29,Skin1004,(EU) Madagascar Centella Ampoule Foam 125ml (EU package),5.99,5.75,6.59,5.99,6.2895,8.386,5.75,6.2895,0.05
+8809913830818,24,2068,6.29,Skin1004,(EU) Madagascar Centella Ampoule Foam 125ml (EU package),5.99,5.75,6.59,5.99,6.2895,8.386,5.75,6.2895,0.05
 8809913830450,24,18000,6.02,Skin1004,(EU) Madagascar Centella Hyalu-Cica Water-Fit Sun Serum 50ml (EU Package),5.71,6.02,6.28,5.71,5.9955,7.994,6.02,6.02,0.0543
