@@ -1,10 +1,12 @@
 Barcode,MOQ,Stock,Price,Brand,Product,PriceRaw,TargetPrice,OriginalPrice,Cost,MinAllowedPrice,MaxAllowedPrice,PriceCandidate,PriceAdjusted,FinalMarkup
 8809738316146,24,18000,7.27,Beauty of Joseon,Revive Eye Serum : Ginseng + Retinal 30ml,6.92,6.31,7.61,6.92,7.266,9.688,6.31,7.266,0.05
 8809782555508,24,18000,7.51,Beauty of Joseon,Relief Sun : Rice + Probiotics 50ml,7.15,6.38,7.87,7.15,7.5075,10.01,6.38,7.5075,0.05
+8809937361657,24,4800,10.5,BIODANCE,Bio-Collagen Real Deep Mask 1Box (34g*4ea),7.5,0.0,8.25,7.5,7.875,10.5,10.5,10.5,0.4
 8809525246014,24,18000,0.8,Beauty of Joseon,(1EA) Centella Asiatica Calming Mask 25ml,0.76,0.72,0.84,0.76,0.798,1.064,0.72,0.798,0.05
 8809525249565,24,18000,9.7,Beauty of Joseon,Dynasty Cream 50ml,9.24,8.36,10.16,9.24,9.702,12.936,8.36,9.702,0.05
 8809657114960,24,18000,7.27,Beauty of Joseon,Glow Serum : Propolis+Niacinamide 30ml,6.92,6.14,7.61,6.92,7.266,9.688,6.14,7.266,0.05
 8809968130130,24,18000,8.06,Beauty of Joseon,Ginseng Cleansing Oil 210ml,7.68,6.85,8.45,7.68,8.064,10.752,6.85,8.064,0.05
+8809937361664,24,2400,10.5,BIODANCE,[EU}Hydro Cera-nol Real Deep Mask 1Box (34g*4ea),7.5,0.0,8.25,7.5,7.875,10.5,10.5,10.5,0.4
 8809968130277,24,18000,7.51,Beauty of Joseon,Relief Sun Aqua-fresh : Rice + B5 50ml,7.15,6.54,7.87,7.15,7.5075,10.01,6.54,7.5075,0.05
 8800256118984,24,18000,8.93,Medicube,COLLAGEN NIGHT WRAPPING MASK 75ml,8.5,8.45,9.35,8.5,8.925,11.9,8.45,8.925,0.05
 8809738312728,24,18000,7.27,Beauty of Joseon,Glow Deep Serum : Rice + Arbutin 30ml,6.92,6.14,7.61,6.92,7.266,9.688,6.14,7.266,0.05
@@ -407,8 +409,6 @@ Barcode,MOQ,Stock,Price,Brand,Product,PriceRaw,TargetPrice,OriginalPrice,Cost,Mi
 8800289461248,24,0,1.23,Medicube,(1EA) SUPER CICA CALMING MASK 22g,0.88,0.0,0.97,0.88,0.924,1.232,1.232,1.232,0.4
 8800289461231,24,2916,1.07,Medicube,(1EA) COLLAGEN LIFTING MASK 27g,0.88,1.07,0.97,0.88,0.924,1.232,1.07,1.07,0.2159
 8800289461101,24,3276,1.07,Medicube,(1EA) DEEP PEPTIDE RADIANCE MASK 20g,0.88,1.07,0.97,0.88,0.924,1.232,1.07,1.07,0.2159
-8809936743195,24,201,6.33,Mediheal,Madecassoside Cleanser_Moisture Calming 120ml,4.52,0.0,4.97,4.52,4.746,6.328,6.328,6.328,0.4
-8809936741412,24,5192,9.72,Mediheal,(10EA) Dermaplus Aloe Mask 22ml,6.94,9.72,7.63,6.94,7.287,9.716,9.72,9.716,0.4
 8809913831143,24,0,2.81,Skin1004,Spot Cover Patch,2.01,0.0,2.21,2.01,2.1105,2.814,2.814,2.814,0.4
 8809913831259,24,0,9.88,Skin1004,(EU) Madagascar Centella Poremizing Fresh Ampoule 100ml,7.06,0.0,7.77,7.06,7.413,9.884,9.884,9.884,0.4
 8809913831228,24,0,11.16,Skin1004,(EU) Madagascar Centella Tone Brightening Capsule Ampoule 100ml,7.97,0.0,8.77,7.97,8.3685,11.158,11.158,11.158,0.4
