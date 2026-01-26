@@ -1,7 +1,6 @@
 Barcode,MOQ,Stock,Price,Brand,Product,PriceRaw,TargetPrice,OriginalPrice,Cost,MinAllowedPrice,MaxAllowedPrice,PriceCandidate,PriceAdjusted,FinalMarkup
 8809738316146,24,17250,7.27,Beauty of Joseon,Revive Eye Serum : Ginseng + Retinal 30ml,6.92,6.29,7.61,6.92,7.266,9.688,6.29,7.266,0.05
 8809782555508,24,18000,7.51,Beauty of Joseon,Relief Sun : Rice + Probiotics 50ml,7.15,6.36,7.87,7.15,7.5075,10.01,6.36,7.5075,0.05
-8809937361657,24,222,7.88,BIODANCE,Bio-Collagen Real Deep Mask 1Box (34g*4ea),7.5,7.13,8.25,7.5,7.875,10.5,7.13,7.875,0.05
 8809525246014,24,18000,0.8,Beauty of Joseon,(1EA) Centella Asiatica Calming Mask 25ml,0.76,0.71,0.84,0.76,0.798,1.064,0.71,0.798,0.05
 8809657114960,24,18000,7.27,Beauty of Joseon,Glow Serum : Propolis+Niacinamide 30ml,6.92,6.12,7.61,6.92,7.266,9.688,6.12,7.266,0.05
 8809968130130,24,18000,8.06,Beauty of Joseon,Ginseng Cleansing Oil 210ml,7.68,6.83,8.45,7.68,8.064,10.752,6.83,8.064,0.05
@@ -30,7 +29,7 @@ Barcode,MOQ,Stock,Price,Brand,Product,PriceRaw,TargetPrice,OriginalPrice,Cost,Mi
 8809447256221,24,1106,9.89,Dr.Althea,[Renew] 345 Repair Cream 50ml,9.3,9.89,10.23,9.3,9.765,13.02,9.89,9.89,0.0634
 8809563103430,24,0,11.3,PURITO SEOUL,Mighty Bamboo Panthenol Cream 100ml,8.07,0.0,8.88,8.07,8.4735,11.298,11.298,11.298,0.4
 8809447255385,24,9344,7.09,Dr.Althea,[Renew] Vitamin C Boosting Serum 30ml,6.75,6.97,7.43,6.75,7.0875,9.45,6.97,7.0875,0.05
-8800256118977,24,8393,10.29,Medicube,TRIPLE COLLAGEN CREAM 4.0 50ml,9.8,10.29,10.78,9.8,10.29,13.72,10.29,10.29,0.05
+8800256118977,24,8213,10.29,Medicube,TRIPLE COLLAGEN CREAM 4.0 50ml,9.8,10.29,10.78,9.8,10.29,13.72,10.29,10.29,0.05
 8809447255071,24,18000,6.56,Dr.Althea,Pure Grinding Cleansing Balm 50ml,6.25,6.43,6.88,6.25,6.5625,8.75,6.43,6.5625,0.05
 8800256119066,24,0,12.74,Medicube,ZERO PORE PAD 2.0 (70pcs),9.1,0.0,10.01,9.1,9.555,12.74,12.74,12.74,0.4
 8800256118960,24,4495,5.67,Medicube,[Renew]TRIPLE COLLAGEN TONER 4.0 140ml,4.9,5.67,5.39,4.9,5.145,6.86,5.67,5.67,0.1571
@@ -456,6 +455,7 @@ Barcode,MOQ,Stock,Price,Brand,Product,PriceRaw,TargetPrice,OriginalPrice,Cost,Mi
 8809968205968,24,0,3.95,House of Hur,Moist Ampoule Blusher 02 Deep Plum 10ml,2.82,0.0,3.1,2.82,2.961,3.948,3.948,3.948,0.4
 8809968205975,24,0,3.95,House of Hur,Moist Ampoule Blusher 03 Rose Brown 10ml,2.82,0.0,3.1,2.82,2.961,3.948,3.948,3.948,0.4
 8809968205982,24,0,3.95,House of Hur,Moist Ampoule Blusher 04 Lavender Flush 10ml,2.82,0.0,3.1,2.82,2.961,3.948,3.948,3.948,0.4
+8809968205999,24,0,3.95,House of Hur,Moist Ampoule Blusher 05 Peach Coral 10ml,2.82,0.0,3.1,2.82,2.961,3.948,3.948,3.948,0.4
 8809913831143,24,0,2.81,Skin1004,Spot Cover Patch,2.01,0.0,2.21,2.01,2.1105,2.814,2.814,2.814,0.4
 8809913831259,24,0,9.88,Skin1004,(EU) Madagascar Centella Poremizing Fresh Ampoule 100ml,7.06,0.0,7.77,7.06,7.413,9.884,9.884,9.884,0.4
 8809913830450,24,8470,6.0,Skin1004,(EU) Madagascar Centella Hyalu-Cica Water-Fit Sun Serum 50ml (EU Package),5.71,5.98,6.28,5.71,5.9955,7.994,5.98,5.9955,0.05
