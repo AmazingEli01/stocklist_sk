@@ -1,4 +1,5 @@
 Barcode,MOQ,Stock,Price,Brand,Product,PriceRaw,TargetPrice,OriginalPrice,Cost,MinAllowedPrice,MaxAllowedPrice,PriceCandidate,PriceAdjusted,FinalMarkup
+8809936742440,24,214,10.7,Mediheal,Teatree Calming Hydra Serum 40ml,7.64,0.0,8.4,7.64,8.022,10.696,10.696,10.696,0.4
 8809936742624,24,0,26.15,Mediheal,Madecassoside Derma Ampoule_Blemish Repair 50ml,18.68,0.0,20.55,18.68,19.614,26.152,26.152,26.152,0.4
 8809936740019,24,0,26.15,Mediheal,Teatree Calming Moisture Ampoule 50ml,18.68,0.0,20.55,18.68,19.614,26.152,26.152,26.152,0.4
 8809936743140,24,0,26.15,Mediheal,Vitamin Derma Ampoule_Brightening 50ml,18.68,0.0,20.55,18.68,19.614,26.152,26.152,26.152,0.4
@@ -18,7 +19,6 @@ Barcode,MOQ,Stock,Price,Brand,Product,PriceRaw,TargetPrice,OriginalPrice,Cost,Mi
 8809704093057,24,0,11.35,Parnell,Cicamanu Serum Cushion #30N (Rich Beige) 15g,8.11,0.0,8.92,8.11,8.5155,11.354,11.354,11.354,0.4
 8809704093248,24,0,11.35,Parnell,Cicamanu Serum Cushion #31N (Honey Beige) 15g,8.11,0.0,8.92,8.11,8.5155,11.354,11.354,11.354,0.4
 8809704093255,24,0,11.35,Parnell,Cicamanu Serum Cushion #33N (Moca Cream) 15g,8.11,0.0,8.92,8.11,8.5155,11.354,11.354,11.354,0.4
-8809704093279,24,0,11.35,Parnell,Cicamanu Serum Cushion #34N (Neutral Tan) 15g,8.11,0.0,8.92,8.11,8.5155,11.354,11.354,11.354,0.4
 8809913831167,24,676,2.64,Skin1004,(EU) Madagascar Centella Ampoule Foam 20ml,2.51,2.62,2.76,2.51,2.6355,3.514,2.62,2.6355,0.05
 8809913833079,24,9540,1.01,Skin1004,(EU) Madagascar Centella Watergel Sheet Ampoule Mask (1ea),0.96,0.93,1.06,0.96,1.008,1.344,0.93,1.008,0.05
 8809913831174,24,1307,8.76,Skin1004,(EU) Madagascar Centella Quick Calming Pad,8.34,7.91,9.17,8.34,8.757,11.676,7.91,8.757,0.05
