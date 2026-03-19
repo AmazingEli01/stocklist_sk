@@ -1,6 +1,6 @@
 Barcode,MOQ,Stock,Price,Brand,Product,PriceRaw,TargetPrice,OriginalPrice,Cost,MinAllowedPrice,MaxAllowedPrice,PriceCandidate,PriceAdjusted,FinalMarkup
 8809525246014,24,18000,0.84,Beauty of Joseon,(1EA) Centella Asiatica Calming Mask 25ml,0.76,0.68,0.84,0.76,0.836,1.064,0.68,0.836,0.1
-8809937361657,24,920,8.25,BIODANCE,Bio-Collagen Real Deep Mask 1Box (34g*4ea),7.5,7.15,8.25,7.5,8.25,10.5,7.15,8.25,0.1
+8809937361657,24,0,8.25,BIODANCE,Bio-Collagen Real Deep Mask 1Box (34g*4ea),7.5,7.15,8.25,7.5,8.25,10.5,7.15,8.25,0.1
 8809447256221,24,18000,10.23,Dr.Althea,[Renew] 345 Repair Cream 50ml,9.3,9.52,10.23,9.3,10.23,13.02,9.52,10.23,0.1
 8809968130277,24,18000,7.86,Beauty of Joseon,Relief Sun Aqua-fresh : Rice + B5 50ml,7.15,6.16,7.87,7.15,7.865,10.01,6.16,7.865,0.1
 8809416470016,24,5374,6.96,COSRX,Advanced Snail 92 All In One Cream 100ml (EU Package),6.33,6.37,6.96,6.33,6.963,8.862,6.37,6.963,0.1
@@ -13,7 +13,7 @@ Barcode,MOQ,Stock,Price,Brand,Product,PriceRaw,TargetPrice,OriginalPrice,Cost,Mi
 8809700320812,24,0,9.2,celimax,THE -A Retinol Shot Tightening Booster 15ml,6.57,0.0,7.23,6.57,7.227,9.198,9.198,9.198,0.4
 8809447251363,24,9260,10.23,Dr.Althea,147 Barrier Cream 50ml,9.3,9.32,10.23,9.3,10.23,13.02,9.32,10.23,0.1
 8809968130246,24,11096,7.86,Beauty of Joseon,Ground Rice and Honey Glow Mask 150ml,7.15,6.19,7.87,7.15,7.865,10.01,6.19,7.865,0.1
-8800289474989,24,2122,7.93,Medicube,PDRN PINK PEPTIDE SERUM 30ml,7.21,7.18,7.93,7.21,7.931,10.094,7.18,7.931,0.1
+8800289474989,24,1858,7.93,Medicube,PDRN PINK PEPTIDE SERUM 30ml,7.21,7.18,7.93,7.21,7.931,10.094,7.18,7.931,0.1
 8809606851663,24,18000,8.17,Beauty of Joseon,Radiance Cleansing Balm 100ml,7.43,6.52,8.17,7.43,8.173,10.402,6.52,8.173,0.1
 8809738310960,24,18000,7.86,Beauty of Joseon,Ginseng Essence Water 150ml,7.15,6.19,7.87,7.15,7.865,10.01,6.19,7.865,0.1
 8809968130123,24,18000,8.37,Beauty of Joseon,Green plum refreshing toner : AHA + BHA (150ml),7.61,6.19,8.37,7.61,8.371,10.654,6.19,8.371,0.1
@@ -108,7 +108,7 @@ Barcode,MOQ,Stock,Price,Brand,Product,PriceRaw,TargetPrice,OriginalPrice,Cost,Mi
 8800311121423,24,11029,9.9,COSRX,5 PDRN Collagen Intense Vitalizing Serum 100mL,9.0,8.97,9.9,9.0,9.9,12.6,8.97,9.9,0.1
 8800256118946,24,5721,10.11,Medicube,AGE-R VITA C PRO AMPOULE 20ml,9.19,8.95,10.11,9.19,10.109,12.866,8.95,10.109,0.1
 8800289461279,24,352,6.27,Medicube,AGE-R GLUTATHIONE GLOW SERUM 30g,5.7,5.68,6.27,5.7,6.27,7.98,5.68,6.27,0.1
-8809447256085,24,2569,5.73,Dr.Althea,Aqua Marine Watery Cream 50ml,5.21,5.35,5.73,5.21,5.731,7.294,5.35,5.731,0.1
+8809447256085,24,2329,5.73,Dr.Althea,Aqua Marine Watery Cream 50ml,5.21,5.35,5.73,5.21,5.731,7.294,5.35,5.731,0.1
 8809891184552,24,0,11.51,BIODANCE,Cera-nol Gel Toner Pads 60Pads,8.22,0.0,9.04,8.22,9.042,11.508,11.508,11.508,0.4
 8806173495979,24,13984,0.38,Nature Republic,(EU) REAL NATURE SHEET MASK CUCUMBER 23ml,0.35,0.35,0.39,0.35,0.385,0.49,0.35,0.385,0.1
 8809559626196,24,1587,10.68,VT COSMETICS,REEDLE SHOT 50 50ml (EU Package),9.71,8.45,10.68,9.71,10.681,13.594,8.45,10.681,0.1
@@ -193,7 +193,7 @@ Barcode,MOQ,Stock,Price,Brand,Product,PriceRaw,TargetPrice,OriginalPrice,Cost,Mi
 8809598454989,24,1333,8.44,COSRX,The Hyaluronic Acid 3 Serum 20g (EU Package),7.67,7.68,8.44,7.67,8.437,10.738,7.68,8.437,0.1
 8809447253152,24,4061,7.51,Dr.Althea,Anastatica Skin Conditioning Toner 250ml,6.83,6.91,7.51,6.83,7.513,9.562,6.91,7.513,0.1
 8809738605721,24,2234,9.26,Round Lab,(EU) Mugwort Cream 80ml,8.42,7.63,9.26,8.42,9.262,11.788,7.63,9.262,0.1
-8809634610249,24,1191,5.95,AXIS-Y,Spot the Difference Blemish Treatment 15ml,5.41,4.47,5.95,5.41,5.951,7.574,4.47,5.951,0.1
+8809634610249,24,1071,5.95,AXIS-Y,Spot the Difference Blemish Treatment 15ml,5.41,4.47,5.95,5.41,5.951,7.574,4.47,5.951,0.1
 8809532220908,24,1142,7.95,Haruharu Wonder,Black Rice Hyaluronic Anti-Wrinkle Serum,7.23,6.98,7.95,7.23,7.953,10.122,6.98,7.953,0.1
 8809730950553,24,1012,1.2,ma:nyo,BIFIDA BIOME AMPOULE MASK 1ea,1.09,1.17,1.2,1.09,1.199,1.526,1.17,1.199,0.1
 8809532220700,24,1090,9.88,Haruharu Wonder,Black Rice Hyaluronic Toner 300ml,8.98,8.12,9.88,8.98,9.878,12.572,8.12,9.878,0.1
